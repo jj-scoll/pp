@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: pp
+  annotations:
+    github.com/project-slug: jj-scoll/pp
+spec:
+  type: other
+  lifecycle: unknown
+  owner: jj-scoll
