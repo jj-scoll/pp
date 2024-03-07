@@ -4,6 +4,14 @@ metadata:
   name: pp
   annotations:
     github.com/project-slug: jj-scoll/pp
+  links:
+    - url: https://admin.example-org.com
+      title: Admin Dashboard
+      icon: dashboard
+      type: admin-dashboard
+    - url: https://google.com
+      title: Google
+      icon: dashboard
 spec:
   type: other
   lifecycle: unknown
