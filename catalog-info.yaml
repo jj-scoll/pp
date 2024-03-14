@@ -4,6 +4,7 @@ metadata:
   name: pp
   annotations:
     github.com/project-slug: jj-scoll/pp
+    datadoghq.com/dashboard-url: https://p.datadoghq.com/sb/bc3feaca-a64f-11ed-9d7c-da7ad0900002-e8bf305e101db8f188cda190ecb9a79e
   links:
     - url: https://admin.example-org.com
       title: Admin Dashboard
